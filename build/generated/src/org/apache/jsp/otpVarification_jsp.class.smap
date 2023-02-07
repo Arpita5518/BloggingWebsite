@@ -1,0 +1,17 @@
+SMAP
+otpVarification_jsp.java
+JSP
+*S JSP
+*F
++ 0 otpVarification.jsp
+otpVarification.jsp
+*L
+1,16:48
+16,55:64
+71:119,3
+72,18:122
+90:140,3
+91,33:143
+124:176,3
+125,25:179
+*E

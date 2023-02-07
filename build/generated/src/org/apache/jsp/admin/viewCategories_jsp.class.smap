@@ -1,0 +1,17 @@
+SMAP
+viewCategories_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewCategories.jsp
+admin/viewCategories.jsp
+*L
+5,11:46
+15,49:57
+64:106,3
+65,6:109
+71:115,3
+72,27:118
+99:145,3
+100,32:148
+*E
