@@ -1,9 +1,3 @@
-<%-- 
-    Document   : sendSMS
-    Created on : 27-Apr-2022, 09:25:53
-    Author     : DELL
---%>
-
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
